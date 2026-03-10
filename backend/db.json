@@ -1,0 +1,30 @@
+{
+  "quotes": [
+    {
+      "id": "1",
+      "author": "Socrates",
+      "quote": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+      "id": "2",
+      "author": "Clauidu",
+      "quote": "Facultatea imi place"
+    },
+    {
+      "id": "3",
+      "author": "Florinelu",
+      "quote": "Facultatea imi place"
+    },
+    {
+      "id": "4",
+      "author": "Albert Einsteinaaaaaaaaaaaa",
+      "quote": "Life is like riding a bicycle. To keep your balance you must keep moving."
+    },
+    {
+      "id": "5",
+      "author": "Florin cel Mare <3",
+      "quote": "Facultatea imi place"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
